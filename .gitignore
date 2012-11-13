@@ -163,3 +163,7 @@ pip-log.txt
 .DS_Store
 
 test.js
+.gitignore
+.gitattributes
+.npmignore
+npm-debug.log
