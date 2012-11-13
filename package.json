@@ -1,0 +1,17 @@
+{
+  "name": "readlinestream",
+  "version": "0.1.0",
+  "description": "Read a file line by line",
+  "main": "main.js",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/Acconut/linestream.git"
+  },
+  "keywords": [
+    "line",
+    "stream",
+    "read"
+  ],
+  "author": "Acconut",
+  "license": "http://creativecommons.org/licenses/by/3.0/deed"
+}
