@@ -8,7 +8,7 @@ In your file:
 
 ```javascript
 var rls = require("readlinestream");
-var stream = rls.createReadStream("eitel.txt");
+var stream = rls.createReadLineStream("eitel.txt");
 stream.on("line", function(line) {
 	console.log("Line: " + line);
 });
